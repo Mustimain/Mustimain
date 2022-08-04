@@ -3,7 +3,7 @@
  </h1>
  
  <p align='center'>
-   A Software developer from İstanbul, Turkey.
+   A Mobile Application Developer from İstanbul, Turkey.
 </p>
 
 <p align='center'>
